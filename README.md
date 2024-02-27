@@ -15,7 +15,11 @@ missing values, and ensure data quality.
 Model Training: Implement linear regression using a machine learning library (e.g., Scikit-
 Learn).
 
+**Model Training:** Implement linear regression using a machine learning library (e.g., Scikit-
+Learn).
+
 **Model Evaluation:** Evaluate the model's performance on a separate test dataset using
 metrics such as Mean Squared Error or R-squared.
-Visualization: Create visualizations to illustrate the relationship between the predicted and
+
+**Visualization:** Create visualizations to illustrate the relationship between the predicted and
 actual values.
